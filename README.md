@@ -1,5 +1,18 @@
 [English](./README_EN.md) | [中文](./README.md)
 
+> [!IMPORTANT]
+> ## NeriPlayer-Simplified — AI 辅助精简版
+> 本仓库是 [NeriPlayer](https://github.com/cwuom/NeriPlayer) 的**精简分支**，移除了 **YouTube Music** 的所有代码，仅保留**网易云音乐**与**Bilibili**播放能力。
+>
+> **做了什么改动：**
+> - 🔴 **移除 YouTube Music**：播放、搜索、歌词、下载、登录等全部 YouTube Music 相关代码已删除
+> - 🤖 **AI 辅助完成**：精简过程由 AI 工具（WorkBuddy）辅助完成
+> - 🐛 **修复 B 站拉流**：发现并修复了原项目中的 `ConditionalHttpDataSourceFactory` B站认证头注入问题
+> - 📦 **可独立编译运行**：已通过编译验证，APK 可正常安装使用
+>
+> 如需完整版请访问原项目。<br>
+> **This is a simplified fork with YouTube Music removed. AI-assisted cleanup.**
+
 <h1 align="center">NeriPlayer (音理音理!)</h1>
 
 <div align="center">
