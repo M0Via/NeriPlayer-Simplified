@@ -1,0 +1,1 @@
+C:\NeriPlayer\app\src\main\cpp\CMakeLists.txt

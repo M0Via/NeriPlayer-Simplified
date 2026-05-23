@@ -1,0 +1,3 @@
+C:/NeriPlayer/app/.cxx/Debug/1o5l7067/armeabi-v7a/CMakeFiles/neri_native.dir
+C:/NeriPlayer/app/.cxx/Debug/1o5l7067/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/NeriPlayer/app/.cxx/Debug/1o5l7067/armeabi-v7a/CMakeFiles/rebuild_cache.dir

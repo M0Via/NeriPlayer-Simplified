@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/NeriPlayer/app/.cxx/Debug/1o5l7067/arm64-v8a",
+  "command": "C:\\Users\\yuzhi\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android28 --sysroot=C:/Users/yuzhi/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dneri_native_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fexceptions -frtti -fno-limit-debug-info  -fPIC -std=c++17 -o CMakeFiles\\neri_native.dir\\native_crash_handler.cpp.o -c C:\\NeriPlayer\\app\\src\\main\\cpp\\native_crash_handler.cpp",
+  "file": "C:\\NeriPlayer\\app\\src\\main\\cpp\\native_crash_handler.cpp"
+}
+]

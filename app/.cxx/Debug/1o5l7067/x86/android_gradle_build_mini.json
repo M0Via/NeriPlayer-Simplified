@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "C:\\NeriPlayer\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\yuzhi\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\NeriPlayer\\app\\.cxx\\Debug\\1o5l7067\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\yuzhi\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\NeriPlayer\\app\\.cxx\\Debug\\1o5l7067\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "neri_native::@6890427a1f51a3e7e1df": {
+      "artifactName": "neri_native",
+      "abi": "x86",
+      "output": "C:\\NeriPlayer\\app\\build\\intermediates\\cxx\\Debug\\1o5l7067\\obj\\x86\\lib_neri.so",
+      "runtimeFiles": []
+    }
+  }
+}
